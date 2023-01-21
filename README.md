@@ -1,4 +1,4 @@
-# Deep-Learning-CNN-for-Predicting-Transcription-Factor-Binding-Site-in-DNA
+# Deep Learning CNN for Predicting Transcription Factor Binding Site in DNA
 
 ### This was a hands-on tutorial during a ML in Bioinformatics Summer School in 2020
 
